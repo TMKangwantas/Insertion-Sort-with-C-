@@ -1,6 +1,4 @@
 /*
- * Prog1.cpp
- *
  *      Author: Mark
  */
 #include <iostream>
