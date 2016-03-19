@@ -1,7 +1,6 @@
 /*
  * Prog1.cpp
  *
- *  Created on: Mar 18, 2016
  *      Author: Mark
  */
 #include <iostream>
@@ -23,7 +22,7 @@ int main()
 	int COMPCOUNT1 = 0; //The number of key comparisons for the worst case
 	int COMPCOUNT2 = 0; //The number of key comparisons for the average case
 	int insort1[32]; //Best Case
-	int insort2[6]; //Worst Case
+	int insort2[32]; //Worst Case
 	int insort3[32]; //Average Case
 
 
